@@ -23,3 +23,6 @@ console.log(`Subtotal       $${customerSubtotal}`)
 console.log(`Tax            $ ${customerTaxTotal.toFixed(2)}`)
 console.log(`-----------------------`)
 console.log(`Total          $${customerTotal.toFixed(2)}`)
+
+
+// if using code more than once, create a function 
